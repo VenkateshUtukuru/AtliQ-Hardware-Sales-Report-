@@ -29,13 +29,13 @@ Design and develop interactive dashboards for AtliQ Hardware that provide deep i
 - Assess financial health, guide strategic planning, and support transparent communication with stakeholders.
 - Ensure financial planning aligns with organizational goals and strengthens stakeholder confidence.
 
-## 📚 Available Reports
+## 📚 Reports
 
-1. [Customer Performance Report.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
-2.  [Market Performance vs Target Report](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
-3. [P&L Statement by Fiscal Year](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-4. [P&L Statement by Markets.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Markets.pdf) 
-5. [P&L Statement by Months](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Months.pdf)
+- [Customer Performance Report.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+-  [Market Performance vs Target Report](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+  - [P&L Statement by Fiscal Year](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- [P&L Statement by Markets.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Markets.pdf) 
+  - [P&L Statement by Months](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ## ⚙️ Technical & Soft Skills Demonstrated
 
