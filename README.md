@@ -32,10 +32,10 @@ Design and develop interactive dashboards for AtliQ Hardware that provide deep i
 ## 📚 Available Reports
 
 1. [Customer Performance Report.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
-2. https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
-3. https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
-4. [P&L Statement by Markets](P&L Statement by Markets.pdf)  
-5. [P&L Statement by Months](P&L Statement by Months.pdf)
+2.  [Market Performance vs Target Report](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+3. [P&L Statement by Fiscal Year](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+4. [P&L Statement by Markets.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Markets.pdf) 
+5. [P&L Statement by Months](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ## ⚙️ Technical & Soft Skills Demonstrated
 
