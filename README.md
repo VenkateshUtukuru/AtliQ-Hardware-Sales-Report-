@@ -31,7 +31,7 @@ Design and develop interactive dashboards for AtliQ Hardware that provide deep i
 
 ## 📚 Available Reports
 
-1. [Customer Performance Report]([Customer Performance Report.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))  
+1. ([Customer Performance Report.pdf](https://github.com/VenkateshUtukuru/AtliQ-Hardware-Sales-Report-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))  
 2. [Market Performance vs Target Report](Market Performance vs Target Report.pdf)  
 3. [P&L Statement by Fiscal Year](P&L Statement by Fiscal Year.pdf)  
 4. [P&L Statement by Markets](P&L Statement by Markets.pdf)  
