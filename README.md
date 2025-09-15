@@ -19,7 +19,7 @@ Design and develop interactive dashboards for AtliQ Hardware that provide deep i
 
 ## 📈 Financial Analysis Objectives
 
-- **Yearly Profit and Loss (P&L):** Summarize annual financial performance.
+- **Yearly Profit and Loss (P&L):** Summarize annual financial performance.   
 - **Monthly P&L Comparison:** Track monthly financial trends to identify patterns.
 - **Market-Specific P&L:** Provide detailed financial insights by market.
 - **Quarterly Gross Margin % by Sub-Zone:** Evaluate profitability across geographic zones.
